@@ -62,6 +62,6 @@ Throughout my time at SNHU, I've developed a strong foundation in databases, alg
 
 [LinkedIn: Patrick Quinn](https://www.linkedin.com/in/patrick-quinn-059b2816b/)
 
-[See Original Files and Enhancements](https://github.com/pjquinn1999/pjquinn1999.github.io/tree/main/cs499-original))
+[See Original Files and Enhancements](https://github.com/pjquinn1999/pjquinn1999.github.io/tree/main/cs499-original)
 
 
