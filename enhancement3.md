@@ -1,5 +1,3 @@
-Databases Narrative
-
 Data Structure (WeightStats and WeeklyChange):
 kotlin
 Copy
@@ -8,6 +6,7 @@ data class WeightStats(
     val currentWeight: Double,
     // ...other fields
 )
+
 These data classes define the structure for storing weight statistics. WeightStats holds comprehensive information about a user's weight journey, while WeeklyChange tracks weekly averages.
 Repository Pattern (WeightRepository):
 kotlin
@@ -18,7 +17,9 @@ class WeightRepository(private val dbHelper: DatabaseHelper) {
     }.flowOn(Dispatchers.IO)
     // ...other methods
 }
+
 The repository acts as a single source of truth for data operations. It wraps database operations and ensures they run on background threads using Dispatchers.IO. The use of Flow enables reactive data streaming, meaning the UI automatically updates when data changes.
+
 ViewModel Implementation:
 kotlin
 Copy
@@ -75,6 +76,7 @@ lifecycleScope.launch {
         findViewById<WeightChartView>(R.id.weightChart).setData(weights)
     }
 }
+
 The code uses Kotlin coroutines for asynchronous operations, ensuring smooth UI performance by:
 •	Running database operations on background threads
 •	Using structured concurrency with lifecycleScope
@@ -113,6 +115,7 @@ private fun updateStatsUI(stats: WeightStats?) {
         """.trimIndent()
     }
 }
+
 The UI updates are handled efficiently with:
 •	Null-safe operations using the safe call operator
 •	Formatted string templates for readable output
