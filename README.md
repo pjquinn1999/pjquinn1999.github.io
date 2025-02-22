@@ -6,7 +6,7 @@ Hi! I'm Patrick Quinn. I'm a senior at SNHU studying computer science, looking t
 
 ## Project Overview
 
-[![Project Overview Video](https://img.shields.io/badge/Watch-Code%20Review-red)]()
+[![Project Overview Video](https://img.shields.io/badge/Watch-Code%20Review-red)](https://www.youtube.com/watch?v=GoVLxoXYReQ)
 
 ## Enhancements
 
