@@ -54,11 +54,11 @@ The DatabaseHelper class received significant security and performance enhanceme
 
 Throughout my time at SNHU, I've developed a strong foundation in databases, algorithms, and software design. I wrote about what I have learned in this program which you can read here.
 
-[Read professional assessment](selfassessmentmd)
+[Read professional assessment](selfassessmentmd.md)
 
 ## Extra
 
-[Github: github.com/pjquinn1999](https://www.github.com/1999)
+[Github: github.com/pjquinn1999](https://www.github.com/pjquinn1999)
 
 [LinkedIn: Patrick Quinn](https://www.linkedin.com/in/patrick-quinn-059b2816b/)
 
