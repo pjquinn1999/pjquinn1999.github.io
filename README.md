@@ -49,10 +49,21 @@ The DatabaseHelper class received significant security and performance enhanceme
 
 [Read detailed analysis →](enhancement3.md)
 
+
 ## Professional Assessment
 
 Throughout my time at SNHU, I've developed a strong foundation in:
 
 This capstone project demonstrates these skills through practical application and meaningful enhancements to an existing codebase.
+
+## Extra
+
+Original Files Before Enhancement(
+
+[Github: github.com/pjquinn1999](https://www.github.com)
+
+[LinkedIn: Patrick Quinn](https://www.linkedin.com/in/patrick-quinn-059b2816b/)
+
+[See Original Files and Enhancements]()
 
 
