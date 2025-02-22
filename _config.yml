@@ -1,0 +1,13 @@
+# _config.yml
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Patrick Quinn's Portfolio
+description: SNHU Computer Science Capstone Project
+
+# Custom styling
+github:
+  is_project_page: true
+  repository_url: https://github.com/pjquinn1999/pjquinn1999.github.io
+  repository_name: pjquinn1999.github.io
