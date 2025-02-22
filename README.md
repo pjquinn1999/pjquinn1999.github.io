@@ -1,122 +1,58 @@
-import React from 'react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Laptop, Brain, Database, FileCode2, User } from "lucide-react";
+# Patrick Quinn : SNHU Computer Science Capstone
 
-const PortfolioHome = () => {
-  return (
-    <div className="max-w-6xl mx-auto p-4 space-y-8">
-      {/* Hero Section */}
-      <div className="text-center py-12 space-y-4">
-        <h1 className="text-4xl font-bold">Patrick Quinn</h1>
-        <h2 className="text-2xl text-gray-600">SNHU Computer Science Capstone</h2>
-      </div>
+## About
 
-      {/* About Section */}
-      <Card className="w-full">
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <User className="w-6 h-6" />
-            About
-          </CardTitle>
-        </CardHeader>
-        <CardContent>
-          <p className="text-lg leading-relaxed">
-            Hi! I'm Patrick Quinn. I'm a senior at SNHU studying computer science, looking to further my career 
-            and develop my software engineering skills. This project develops extensive implementations for 
-            software design, algorithms, and databases on a previously existing project. The following 3 sections 
-            will explain what has been done to this project in order to demonstrate skills that I have learned 
-            here in my time at SNHU.
-          </p>
-        </CardContent>
-      </Card>
+Hi! I'm Patrick Quinn. I'm a senior at SNHU studying computer science, looking to further my career and develop my software engineering skills. This project develops extensive implementations for software design, algorithms, and databases on a previously existing project. The following 3 sections will explain what has been done to this project in order to demonstrate skills that I have learned here in my time at SNHU.
 
-      {/* Enhancement Sections */}
-      <div className="grid md:grid-cols-3 gap-6">
-        {/* Enhancement 1 */}
-        <Card className="w-full">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <Laptop className="w-6 h-6" />
-              Enhancement 1
-            </CardTitle>
-            <CardDescription>Software Design and Engineering</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <p className="text-gray-600">
-              Enhanced Android application with modern Material Design principles, advanced data visualization,
-              and refined user interaction patterns. Implemented clean architecture with proper separation of concerns
-              and efficient data management.
-            </p>
-            <a href="#" className="text-blue-600 hover:underline mt-4 inline-block">
-              Read More →
-            </a>
-          </CardContent>
-        </Card>
+## Project Overview
 
-        {/* Enhancement 2 */}
-        <Card className="w-full">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <Brain className="w-6 h-6" />
-              Enhancement 2
-            </CardTitle>
-            <CardDescription>Algorithms and Data Structures</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <p className="text-gray-600">
-              Implemented efficient data handling for weight entries, optimized data structures for chart 
-              visualization, and developed algorithms for weight trend analysis. Enhanced performance while
-              maintaining functionality.
-            </p>
-            <a href="#" className="text-blue-600 hover:underline mt-4 inline-block">
-              Read More →
-            </a>
-          </CardContent>
-        </Card>
+[![Project Overview Video](https://img.shields.io/badge/Watch-Code%20Review-red)]()
 
-        {/* Enhancement 3 */}
-        <Card className="w-full">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <Database className="w-6 h-6" />
-              Enhancement 3
-            </CardTitle>
-            <CardDescription>Databases</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <p className="text-gray-600">
-              Enhanced DatabaseHelper class with robust security measures, implementing secure password 
-              hashing, comprehensive input validation, and protection against SQL injection. Optimized
-              query performance through database indices.
-            </p>
-            <a href="#" className="text-blue-600 hover:underline mt-4 inline-block">
-              Read More →
-            </a>
-          </CardContent>
-        </Card>
-      </div>
+## Enhancements
 
-      {/* Code Review Section */}
-      <Card className="w-full">
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <FileCode2 className="w-6 h-6" />
-            Code Review
-          </CardTitle>
-        </CardHeader>
-        <CardContent>
-          <p className="text-gray-600">
-            A comprehensive code review of the original project design is available, analyzing the initial
-            implementation and identifying areas for enhancement.
-          </p>
-          <a href="#" className="text-blue-600 hover:underline mt-4 inline-block">
-            View Code Review →
-          </a>
-        </CardContent>
-      </Card>
-    </div>
-  );
-};
+### Enhancement 1: Software Design and Engineering
 
-export default PortfolioHome;
+The artifact enhanced is an Android mobile application designed for tracking weight measurements over time. Key improvements include:
+
+- Implementation of Material Design 3 components
+- Advanced data visualization using MPAndroidChart
+- Refined user interaction patterns
+- Clean architecture with proper separation of concerns
+- Efficient data management
+- Modern Android development using Kotlin
+
+[Read detailed analysis →](enhancement1.md)
+
+### Enhancement 2: Algorithms and Data Structures
+
+This enhancement focused on optimizing data handling and implementing efficient algorithms:
+
+- Efficient data structures for weight entries
+- Optimized chart visualization algorithms
+- Weight trend analysis implementation
+- Performance optimization while maintaining functionality
+- Responsive UI design
+- Implementation of complex UI components
+
+[Read detailed analysis →](enhancement2.md)
+
+### Enhancement 3: Databases
+
+The DatabaseHelper class received significant security and performance enhancements:
+
+- Secure password hashing using SHA-256 with unique salts
+- Comprehensive input validation using regex patterns
+- Protection against SQL injection
+- Optimized query performance through database indices
+- Proper data constraints and relationships
+- Efficient database migration procedures
+
+[Read detailed analysis →](enhancement3.md)
+
+## Professional Assessment
+
+Throughout my time at SNHU, I've developed a strong foundation in:
+
+This capstone project demonstrates these skills through practical application and meaningful enhancements to an existing codebase.
+
 
