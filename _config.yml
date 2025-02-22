@@ -4,6 +4,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Patrick Quinn's Portfolio
+description: CS 499
 
 # Custom styling
 github:
