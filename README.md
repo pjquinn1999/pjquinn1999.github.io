@@ -58,7 +58,7 @@ Throughout my time at SNHU, I've developed a strong foundation in databases, alg
 
 ## Extra
 
-[Github: github.com/pjquinn1999](https://www.github.com)
+[Github: github.com/pjquinn1999](https://www.github.com/1999)
 
 [LinkedIn: Patrick Quinn](https://www.linkedin.com/in/patrick-quinn-059b2816b/)
 
