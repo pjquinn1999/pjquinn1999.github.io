@@ -52,18 +52,16 @@ The DatabaseHelper class received significant security and performance enhanceme
 
 ## Professional Assessment
 
-Throughout my time at SNHU, I've developed a strong foundation in:
+Throughout my time at SNHU, I've developed a strong foundation in databases, algorithms, and software design. I wrote about what I have learned in this program which you can read here.
 
-This capstone project demonstrates these skills through practical application and meaningful enhancements to an existing codebase.
+[Read professional assessment](selfassessmentmd.md)
 
 ## Extra
-
-Original Files Before Enhancement(
 
 [Github: github.com/pjquinn1999](https://www.github.com)
 
 [LinkedIn: Patrick Quinn](https://www.linkedin.com/in/patrick-quinn-059b2816b/)
 
-[See Original Files and Enhancements]()
+[See Original Files and Enhancements](cs499-original)
 
 
