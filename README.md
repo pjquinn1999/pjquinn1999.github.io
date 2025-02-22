@@ -1,3 +1,5 @@
+# Patrick Quinn: Computer Science Capstone
+
 ## About
 
 Hi! I'm Patrick Quinn. I'm a senior at SNHU studying computer science, looking to further my career and develop my software engineering skills. This project develops extensive implementations for software design, algorithms, and databases on a previously existing project. The following 3 sections will explain what has been done to this project in order to demonstrate skills that I have learned here in my time at SNHU.
